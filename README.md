@@ -16,11 +16,15 @@ Made sure all data types were correct
 Saved the cleaned dataset as a new CSV file
 
 Files included:
+
 task1_cleaning.ipynb: Python script with all the cleaning steps
+
 Mall_Customers.csv: Dataset used for this task
+
 Mall_Customers_Cleaned.csv: Final cleaned dataset
 
 Tools used:
+
 Python
 
 Pandas library
