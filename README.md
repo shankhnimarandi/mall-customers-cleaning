@@ -2,6 +2,7 @@
 This project is part of an internship assignment. I was given a dataset of mall customers and asked to clean and prepare it using Python and Pandas.
 
 What I did:
+
 Loaded the dataset using Pandas
 
 Checked for missing values and removed them
